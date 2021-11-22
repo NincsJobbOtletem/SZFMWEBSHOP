@@ -1,0 +1,65 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_69e127c8"
+  },
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_76e6bd0a"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/cart/index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_55a0e4db"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/posts/index.vue",
+    "chunkName": "pages/posts/index",
+    "_name": "_4375608e"
+  },
+  {
+    "name": "admin-auth",
+    "path": "/admin/auth",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/admin/auth/index.vue",
+    "chunkName": "pages/admin/auth/index",
+    "_name": "_150c47ba"
+  },
+  {
+    "name": "admin-new-post",
+    "path": "/admin/new-post",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/admin/new-post/index.vue",
+    "chunkName": "pages/admin/new-post/index",
+    "_name": "_3ac5be30"
+  },
+  {
+    "name": "admin-postid",
+    "path": "/admin/:postid",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/admin/_postid/index.vue",
+    "chunkName": "pages/admin/_postid/index",
+    "_name": "_6d1e9415"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/posts/_id/index.vue",
+    "chunkName": "pages/posts/_id/index",
+    "_name": "_486f8479"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/siphon/Documents/SZFMWEBSHOP/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_75c7d86c"
+  }
+]
